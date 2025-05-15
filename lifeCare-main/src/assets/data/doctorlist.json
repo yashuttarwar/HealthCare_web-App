@@ -1,0 +1,2402 @@
+[
+    {
+        "name": "Dr. Doctor1 Example",
+        "experience": "6+ years of experience",
+        "qualification": "Advanced Cardiology, Fortis Institute; MD Internal Medicine, Mumbai University",
+        "city": "Pune",
+        "languages": [
+            "English",
+            "Kannada"
+        ],
+        "contact": "+91-9605087446",
+        "consultationFee": "\u20b9 1020 per consultation"
+    },
+    {
+        "name": "Dr. Doctor2 Example",
+        "experience": "34+ years of experience",
+        "qualification": "MD Internal Medicine, Mumbai University; MBBS AIIMS, New Delhi",
+        "city": "Jaipur",
+        "languages": [
+            "Hindi",
+            "Marathi"
+        ],
+        "contact": "+91-7328683631",
+        "consultationFee": "\u20b9 1664 per consultation"
+    },
+    {
+        "name": "Dr. Doctor3 Example",
+        "experience": "33+ years of experience",
+        "qualification": "MBBS AIIMS, New Delhi; MD Internal Medicine, Mumbai University",
+        "city": "Lucknow",
+        "languages": [
+            "Hindi",
+            "Urdu"
+        ],
+        "contact": "+91-9266263406",
+        "consultationFee": "\u20b9 784 per consultation"
+    },
+    {
+        "name": "Dr. Doctor4 Example",
+        "experience": "27+ years of experience",
+        "qualification": "PGDM in Geriatrics, Apollo Hospitals; MBBS AIIMS, New Delhi",
+        "city": "Hyderabad",
+        "languages": [
+            "English",
+            "Kannada"
+        ],
+        "contact": "+91-8020725476",
+        "consultationFee": "\u20b9 1964 per consultation"
+    },
+    {
+        "name": "Dr. Doctor5 Example",
+        "experience": "8+ years of experience",
+        "qualification": "Fellowship in Diabetes, RCP UK; MBBS AIIMS, New Delhi",
+        "city": "Ahmedabad",
+        "languages": [
+            "English",
+            "Punjabi"
+        ],
+        "contact": "+91-7332570730",
+        "consultationFee": "\u20b9 1325 per consultation"
+    },
+    {
+        "name": "Dr. Doctor6 Example",
+        "experience": "9+ years of experience",
+        "qualification": "PGDM in Geriatrics, Apollo Hospitals; DFM Royal College, UK",
+        "city": "Pune",
+        "languages": [
+            "Hindi",
+            "Marathi"
+        ],
+        "contact": "+91-7775720261",
+        "consultationFee": "\u20b9 1066 per consultation"
+    },
+    {
+        "name": "Dr. Doctor7 Example",
+        "experience": "21+ years of experience",
+        "qualification": "Fellowship in Diabetes, RCP UK; Advanced Cardiology, Fortis Institute",
+        "city": "Lucknow",
+        "languages": [
+            "English",
+            "Kannada"
+        ],
+        "contact": "+91-7676509042",
+        "consultationFee": "\u20b9 962 per consultation"
+    },
+    {
+        "name": "Dr. Doctor8 Example",
+        "experience": "27+ years of experience",
+        "qualification": "MBBS AIIMS, New Delhi; Advanced Cardiology, Fortis Institute",
+        "city": "Jaipur",
+        "languages": [
+            "English",
+            "Tamil"
+        ],
+        "contact": "+91-7194463426",
+        "consultationFee": "\u20b9 1426 per consultation"
+    },
+    {
+        "name": "Dr. Doctor9 Example",
+        "experience": "16+ years of experience",
+        "qualification": "MD Internal Medicine, Mumbai University; MBBS KGMU, Lucknow",
+        "city": "Lucknow",
+        "languages": [
+            "English",
+            "Telugu"
+        ],
+        "contact": "+91-8389144249",
+        "consultationFee": "\u20b9 683 per consultation"
+    },
+    {
+        "name": "Dr. Doctor10 Example",
+        "experience": "23+ years of experience",
+        "qualification": "MBBS AIIMS, New Delhi; Advanced Cardiology, Fortis Institute",
+        "city": "Bangalore",
+        "languages": [
+            "English",
+            "Malayalam"
+        ],
+        "contact": "+91-9579710584",
+        "consultationFee": "\u20b9 535 per consultation"
+    },
+    {
+        "name": "Dr. Doctor11 Example",
+        "experience": "32+ years of experience",
+        "qualification": "PGDM in Geriatrics, Apollo Hospitals; Fellowship in Diabetes, RCP UK",
+        "city": "Pune",
+        "languages": [
+            "Hindi",
+            "Marathi"
+        ],
+        "contact": "+91-7220389591",
+        "consultationFee": "\u20b9 1031 per consultation"
+    },
+    {
+        "name": "Dr. Doctor12 Example",
+        "experience": "20+ years of experience",
+        "qualification": "PGDM in Geriatrics, Apollo Hospitals; Advanced Cardiology, Fortis Institute",
+        "city": "Kolkata",
+        "languages": [
+            "English",
+            "Hindi"
+        ],
+        "contact": "+91-7917571659",
+        "consultationFee": "\u20b9 1898 per consultation"
+    },
+    {
+        "name": "Dr. Doctor13 Example",
+        "experience": "22+ years of experience",
+        "qualification": "Fellowship in Diabetes, RCP UK; PGDM in Geriatrics, Apollo Hospitals",
+        "city": "Chennai",
+        "languages": [
+            "English",
+            "Kannada"
+        ],
+        "contact": "+91-9142208096",
+        "consultationFee": "\u20b9 994 per consultation"
+    },
+    {
+        "name": "Dr. Doctor14 Example",
+        "experience": "33+ years of experience",
+        "qualification": "MBBS KGMU, Lucknow; DFM Royal College, UK",
+        "city": "Ahmedabad",
+        "languages": [
+            "English",
+            "Telugu"
+        ],
+        "contact": "+91-9430753448",
+        "consultationFee": "\u20b9 1244 per consultation"
+    },
+    {
+        "name": "Dr. Doctor15 Example",
+        "experience": "16+ years of experience",
+        "qualification": "PGDM in Geriatrics, Apollo Hospitals; Fellowship in Diabetes, RCP UK",
+        "city": "Kolkata",
+        "languages": [
+            "English",
+            "Tamil"
+        ],
+        "contact": "+91-8937715244",
+        "consultationFee": "\u20b9 691 per consultation"
+    },
+    {
+        "name": "Dr. Doctor16 Example",
+        "experience": "22+ years of experience",
+        "qualification": "MBBS AIIMS, New Delhi; MD Internal Medicine, Mumbai University",
+        "city": "Jaipur",
+        "languages": [
+            "English",
+            "Kannada"
+        ],
+        "contact": "+91-7310762173",
+        "consultationFee": "\u20b9 752 per consultation"
+    },
+    {
+        "name": "Dr. Doctor17 Example",
+        "experience": "29+ years of experience",
+        "qualification": "DFM Royal College, UK; MBBS AIIMS, New Delhi",
+        "city": "Delhi",
+        "languages": [
+            "English",
+            "Hindi"
+        ],
+        "contact": "+91-7389820936",
+        "consultationFee": "\u20b9 1561 per consultation"
+    },
+    {
+        "name": "Dr. Doctor18 Example",
+        "experience": "8+ years of experience",
+        "qualification": "MD Internal Medicine, Mumbai University; Advanced Cardiology, Fortis Institute",
+        "city": "Ahmedabad",
+        "languages": [
+            "Hindi",
+            "Urdu"
+        ],
+        "contact": "+91-8389501694",
+        "consultationFee": "\u20b9 1650 per consultation"
+    },
+    {
+        "name": "Dr. Doctor19 Example",
+        "experience": "8+ years of experience",
+        "qualification": "MD General Medicine, PGI Chandigarh; Advanced Cardiology, Fortis Institute",
+        "city": "Ahmedabad",
+        "languages": [
+            "Hindi",
+            "Bengali"
+        ],
+        "contact": "+91-7863375693",
+        "consultationFee": "\u20b9 1771 per consultation"
+    },
+    {
+        "name": "Dr. Doctor20 Example",
+        "experience": "8+ years of experience",
+        "qualification": "DFM Royal College, UK; MBBS KGMU, Lucknow",
+        "city": "Lucknow",
+        "languages": [
+            "Hindi",
+            "Gujarati"
+        ],
+        "contact": "+91-9968469029",
+        "consultationFee": "\u20b9 908 per consultation"
+    },
+    {
+        "name": "Dr. Doctor21 Example",
+        "experience": "7+ years of experience",
+        "qualification": "MBBS KGMU, Lucknow; PGDM in Geriatrics, Apollo Hospitals",
+        "city": "Chennai",
+        "languages": [
+            "English",
+            "Kannada"
+        ],
+        "contact": "+91-9324353506",
+        "consultationFee": "\u20b9 1652 per consultation"
+    },
+    {
+        "name": "Dr. Doctor22 Example",
+        "experience": "32+ years of experience",
+        "qualification": "PGDM in Geriatrics, Apollo Hospitals; MBBS AIIMS, New Delhi",
+        "city": "Lucknow",
+        "languages": [
+            "Hindi",
+            "Urdu"
+        ],
+        "contact": "+91-8511438322",
+        "consultationFee": "\u20b9 1546 per consultation"
+    },
+    {
+        "name": "Dr. Doctor23 Example",
+        "experience": "24+ years of experience",
+        "qualification": "MD General Medicine, PGI Chandigarh; Advanced Cardiology, Fortis Institute",
+        "city": "Delhi",
+        "languages": [
+            "English",
+            "Malayalam"
+        ],
+        "contact": "+91-9089178600",
+        "consultationFee": "\u20b9 1299 per consultation"
+    },
+    {
+        "name": "Dr. Doctor24 Example",
+        "experience": "21+ years of experience",
+        "qualification": "MBBS KGMU, Lucknow; MBBS AIIMS, New Delhi",
+        "city": "Pune",
+        "languages": [
+            "Hindi",
+            "Gujarati"
+        ],
+        "contact": "+91-7948589276",
+        "consultationFee": "\u20b9 1786 per consultation"
+    },
+    {
+        "name": "Dr. Doctor25 Example",
+        "experience": "17+ years of experience",
+        "qualification": "DFM Royal College, UK; MD Internal Medicine, Mumbai University",
+        "city": "Lucknow",
+        "languages": [
+            "Hindi",
+            "Gujarati"
+        ],
+        "contact": "+91-8192317949",
+        "consultationFee": "\u20b9 733 per consultation"
+    },
+    {
+        "name": "Dr. Doctor26 Example",
+        "experience": "5+ years of experience",
+        "qualification": "Advanced Cardiology, Fortis Institute; MD Family Medicine, CMC Vellore",
+        "city": "Jaipur",
+        "languages": [
+            "English",
+            "Tamil"
+        ],
+        "contact": "+91-8831479997",
+        "consultationFee": "\u20b9 1109 per consultation"
+    },
+    {
+        "name": "Dr. Doctor27 Example",
+        "experience": "24+ years of experience",
+        "qualification": "MD General Medicine, PGI Chandigarh; MBBS KGMU, Lucknow",
+        "city": "Mumbai",
+        "languages": [
+            "English",
+            "Hindi"
+        ],
+        "contact": "+91-9618292105",
+        "consultationFee": "\u20b9 1477 per consultation"
+    },
+    {
+        "name": "Dr. Doctor28 Example",
+        "experience": "29+ years of experience",
+        "qualification": "Advanced Cardiology, Fortis Institute; Advanced Cardiology, Fortis Institute",
+        "city": "Kolkata",
+        "languages": [
+            "English",
+            "Telugu"
+        ],
+        "contact": "+91-8839538960",
+        "consultationFee": "\u20b9 1132 per consultation"
+    },
+    {
+        "name": "Dr. Doctor29 Example",
+        "experience": "6+ years of experience",
+        "qualification": "MD Internal Medicine, Mumbai University; Advanced Cardiology, Fortis Institute",
+        "city": "Lucknow",
+        "languages": [
+            "English",
+            "Punjabi"
+        ],
+        "contact": "+91-8128004661",
+        "consultationFee": "\u20b9 670 per consultation"
+    },
+    {
+        "name": "Dr. Doctor30 Example",
+        "experience": "32+ years of experience",
+        "qualification": "Fellowship in Diabetes, RCP UK; MD Family Medicine, CMC Vellore",
+        "city": "Lucknow",
+        "languages": [
+            "English",
+            "Malayalam"
+        ],
+        "contact": "+91-9003621606",
+        "consultationFee": "\u20b9 1200 per consultation"
+    },
+    {
+        "name": "Dr. Doctor31 Example",
+        "experience": "26+ years of experience",
+        "qualification": "Advanced Cardiology, Fortis Institute; DFM Royal College, UK",
+        "city": "Mumbai",
+        "languages": [
+            "English",
+            "Kannada"
+        ],
+        "contact": "+91-7749953201",
+        "consultationFee": "\u20b9 1057 per consultation"
+    },
+    {
+        "name": "Dr. Doctor32 Example",
+        "experience": "27+ years of experience",
+        "qualification": "MBBS AIIMS, New Delhi; MD Family Medicine, CMC Vellore",
+        "city": "Bangalore",
+        "languages": [
+            "English",
+            "Telugu"
+        ],
+        "contact": "+91-9467131120",
+        "consultationFee": "\u20b9 1568 per consultation"
+    },
+    {
+        "name": "Dr. Doctor33 Example",
+        "experience": "5+ years of experience",
+        "qualification": "MBBS KGMU, Lucknow; Advanced Cardiology, Fortis Institute",
+        "city": "Kolkata",
+        "languages": [
+            "Hindi",
+            "Gujarati"
+        ],
+        "contact": "+91-9180635529",
+        "consultationFee": "\u20b9 888 per consultation"
+    },
+    {
+        "name": "Dr. Doctor34 Example",
+        "experience": "18+ years of experience",
+        "qualification": "MBBS AIIMS, New Delhi; Advanced Cardiology, Fortis Institute",
+        "city": "Bangalore",
+        "languages": [
+            "Hindi",
+            "Urdu"
+        ],
+        "contact": "+91-7464898925",
+        "consultationFee": "\u20b9 1817 per consultation"
+    },
+    {
+        "name": "Dr. Doctor35 Example",
+        "experience": "19+ years of experience",
+        "qualification": "Fellowship in Diabetes, RCP UK; MBBS KGMU, Lucknow",
+        "city": "Mumbai",
+        "languages": [
+            "English",
+            "Tamil"
+        ],
+        "contact": "+91-8023083940",
+        "consultationFee": "\u20b9 1735 per consultation"
+    },
+    {
+        "name": "Dr. Doctor36 Example",
+        "experience": "24+ years of experience",
+        "qualification": "MD General Medicine, PGI Chandigarh; MBBS AIIMS, New Delhi",
+        "city": "Pune",
+        "languages": [
+            "Hindi",
+            "Marathi"
+        ],
+        "contact": "+91-8832303074",
+        "consultationFee": "\u20b9 1437 per consultation"
+    },
+    {
+        "name": "Dr. Doctor37 Example",
+        "experience": "14+ years of experience",
+        "qualification": "MBBS AIIMS, New Delhi; MD Internal Medicine, Mumbai University",
+        "city": "Kolkata",
+        "languages": [
+            "English",
+            "Telugu"
+        ],
+        "contact": "+91-8118503107",
+        "consultationFee": "\u20b9 1613 per consultation"
+    },
+    {
+        "name": "Dr. Doctor38 Example",
+        "experience": "22+ years of experience",
+        "qualification": "Fellowship in Diabetes, RCP UK; MBBS KGMU, Lucknow",
+        "city": "Hyderabad",
+        "languages": [
+            "English",
+            "Telugu"
+        ],
+        "contact": "+91-8292019759",
+        "consultationFee": "\u20b9 725 per consultation"
+    },
+    {
+        "name": "Dr. Doctor39 Example",
+        "experience": "28+ years of experience",
+        "qualification": "Advanced Cardiology, Fortis Institute; MD General Medicine, PGI Chandigarh",
+        "city": "Jaipur",
+        "languages": [
+            "English",
+            "Punjabi"
+        ],
+        "contact": "+91-7552439716",
+        "consultationFee": "\u20b9 1728 per consultation"
+    },
+    {
+        "name": "Dr. Doctor40 Example",
+        "experience": "35+ years of experience",
+        "qualification": "PGDM in Geriatrics, Apollo Hospitals; MBBS AIIMS, New Delhi",
+        "city": "Ahmedabad",
+        "languages": [
+            "Hindi",
+            "Marathi"
+        ],
+        "contact": "+91-8915080391",
+        "consultationFee": "\u20b9 944 per consultation"
+    },
+    {
+        "name": "Dr. Doctor41 Example",
+        "experience": "26+ years of experience",
+        "qualification": "PGDM in Geriatrics, Apollo Hospitals; MD General Medicine, PGI Chandigarh",
+        "city": "Mumbai",
+        "languages": [
+            "Hindi",
+            "Bengali"
+        ],
+        "contact": "+91-9135570450",
+        "consultationFee": "\u20b9 941 per consultation"
+    },
+    {
+        "name": "Dr. Doctor42 Example",
+        "experience": "34+ years of experience",
+        "qualification": "MD Internal Medicine, Mumbai University; MD Family Medicine, CMC Vellore",
+        "city": "Delhi",
+        "languages": [
+            "Hindi",
+            "Marathi"
+        ],
+        "contact": "+91-7517378620",
+        "consultationFee": "\u20b9 1280 per consultation"
+    },
+    {
+        "name": "Dr. Doctor43 Example",
+        "experience": "34+ years of experience",
+        "qualification": "MBBS AIIMS, New Delhi; MD Internal Medicine, Mumbai University",
+        "city": "Mumbai",
+        "languages": [
+            "Hindi",
+            "Urdu"
+        ],
+        "contact": "+91-9789377630",
+        "consultationFee": "\u20b9 1109 per consultation"
+    },
+    {
+        "name": "Dr. Doctor44 Example",
+        "experience": "23+ years of experience",
+        "qualification": "Advanced Cardiology, Fortis Institute; Advanced Cardiology, Fortis Institute",
+        "city": "Ahmedabad",
+        "languages": [
+            "English",
+            "Kannada"
+        ],
+        "contact": "+91-9473769681",
+        "consultationFee": "\u20b9 1762 per consultation"
+    },
+    {
+        "name": "Dr. Doctor45 Example",
+        "experience": "30+ years of experience",
+        "qualification": "PGDM in Geriatrics, Apollo Hospitals; Advanced Cardiology, Fortis Institute",
+        "city": "Jaipur",
+        "languages": [
+            "Hindi",
+            "Bengali"
+        ],
+        "contact": "+91-9484654496",
+        "consultationFee": "\u20b9 1853 per consultation"
+    },
+    {
+        "name": "Dr. Doctor46 Example",
+        "experience": "11+ years of experience",
+        "qualification": "PGDM in Geriatrics, Apollo Hospitals; MD Internal Medicine, Mumbai University",
+        "city": "Kolkata",
+        "languages": [
+            "Hindi",
+            "Marathi"
+        ],
+        "contact": "+91-9808744823",
+        "consultationFee": "\u20b9 1865 per consultation"
+    },
+    {
+        "name": "Dr. Doctor47 Example",
+        "experience": "27+ years of experience",
+        "qualification": "MBBS AIIMS, New Delhi; Fellowship in Diabetes, RCP UK",
+        "city": "Chennai",
+        "languages": [
+            "English",
+            "Punjabi"
+        ],
+        "contact": "+91-8304484342",
+        "consultationFee": "\u20b9 903 per consultation"
+    },
+    {
+        "name": "Dr. Doctor48 Example",
+        "experience": "21+ years of experience",
+        "qualification": "DFM Royal College, UK; MBBS AIIMS, New Delhi",
+        "city": "Pune",
+        "languages": [
+            "Hindi",
+            "Urdu"
+        ],
+        "contact": "+91-9017684957",
+        "consultationFee": "\u20b9 1376 per consultation"
+    },
+    {
+        "name": "Dr. Doctor49 Example",
+        "experience": "35+ years of experience",
+        "qualification": "Fellowship in Diabetes, RCP UK; Advanced Cardiology, Fortis Institute",
+        "city": "Kolkata",
+        "languages": [
+            "English",
+            "Telugu"
+        ],
+        "contact": "+91-8464900739",
+        "consultationFee": "\u20b9 1858 per consultation"
+    },
+    {
+        "name": "Dr. Doctor50 Example",
+        "experience": "17+ years of experience",
+        "qualification": "MBBS AIIMS, New Delhi; PGDM in Geriatrics, Apollo Hospitals",
+        "city": "Chennai",
+        "languages": [
+            "English",
+            "Malayalam"
+        ],
+        "contact": "+91-7458714090",
+        "consultationFee": "\u20b9 1837 per consultation"
+    },
+    {
+        "name": "Dr. Doctor51 Example",
+        "experience": "15+ years of experience",
+        "qualification": "MD General Medicine, PGI Chandigarh; MD Family Medicine, CMC Vellore",
+        "city": "Mumbai",
+        "languages": [
+            "Hindi",
+            "Urdu"
+        ],
+        "contact": "+91-7934876955",
+        "consultationFee": "\u20b9 1788 per consultation"
+    },
+    {
+        "name": "Dr. Doctor52 Example",
+        "experience": "25+ years of experience",
+        "qualification": "Advanced Cardiology, Fortis Institute; MD Family Medicine, CMC Vellore",
+        "city": "Lucknow",
+        "languages": [
+            "Hindi",
+            "Gujarati"
+        ],
+        "contact": "+91-7704014581",
+        "consultationFee": "\u20b9 1661 per consultation"
+    },
+    {
+        "name": "Dr. Doctor53 Example",
+        "experience": "25+ years of experience",
+        "qualification": "MD Internal Medicine, Mumbai University; MD Family Medicine, CMC Vellore",
+        "city": "Bangalore",
+        "languages": [
+            "English",
+            "Malayalam"
+        ],
+        "contact": "+91-7465615263",
+        "consultationFee": "\u20b9 709 per consultation"
+    },
+    {
+        "name": "Dr. Doctor54 Example",
+        "experience": "26+ years of experience",
+        "qualification": "MD Family Medicine, CMC Vellore; MBBS AIIMS, New Delhi",
+        "city": "Delhi",
+        "languages": [
+            "Hindi",
+            "Marathi"
+        ],
+        "contact": "+91-7551126127",
+        "consultationFee": "\u20b9 526 per consultation"
+    },
+    {
+        "name": "Dr. Doctor55 Example",
+        "experience": "29+ years of experience",
+        "qualification": "MD Family Medicine, CMC Vellore; MD Family Medicine, CMC Vellore",
+        "city": "Lucknow",
+        "languages": [
+            "English",
+            "Punjabi"
+        ],
+        "contact": "+91-9823842640",
+        "consultationFee": "\u20b9 595 per consultation"
+    },
+    {
+        "name": "Dr. Doctor56 Example",
+        "experience": "5+ years of experience",
+        "qualification": "Fellowship in Diabetes, RCP UK; MD Internal Medicine, Mumbai University",
+        "city": "Ahmedabad",
+        "languages": [
+            "Hindi",
+            "Gujarati"
+        ],
+        "contact": "+91-7451938841",
+        "consultationFee": "\u20b9 1057 per consultation"
+    },
+    {
+        "name": "Dr. Doctor57 Example",
+        "experience": "20+ years of experience",
+        "qualification": "MD Internal Medicine, Mumbai University; PGDM in Geriatrics, Apollo Hospitals",
+        "city": "Lucknow",
+        "languages": [
+            "English",
+            "Malayalam"
+        ],
+        "contact": "+91-7601036417",
+        "consultationFee": "\u20b9 903 per consultation"
+    },
+    {
+        "name": "Dr. Doctor58 Example",
+        "experience": "23+ years of experience",
+        "qualification": "MBBS AIIMS, New Delhi; DFM Royal College, UK",
+        "city": "Delhi",
+        "languages": [
+            "English",
+            "Malayalam"
+        ],
+        "contact": "+91-9718736478",
+        "consultationFee": "\u20b9 861 per consultation"
+    },
+    {
+        "name": "Dr. Doctor59 Example",
+        "experience": "32+ years of experience",
+        "qualification": "Fellowship in Diabetes, RCP UK; DFM Royal College, UK",
+        "city": "Delhi",
+        "languages": [
+            "English",
+            "Kannada"
+        ],
+        "contact": "+91-9678326004",
+        "consultationFee": "\u20b9 860 per consultation"
+    },
+    {
+        "name": "Dr. Doctor60 Example",
+        "experience": "11+ years of experience",
+        "qualification": "DFM Royal College, UK; MD Family Medicine, CMC Vellore",
+        "city": "Mumbai",
+        "languages": [
+            "Hindi",
+            "Bengali"
+        ],
+        "contact": "+91-9706501625",
+        "consultationFee": "\u20b9 1829 per consultation"
+    },
+    {
+        "name": "Dr. Doctor61 Example",
+        "experience": "16+ years of experience",
+        "qualification": "MD General Medicine, PGI Chandigarh; PGDM in Geriatrics, Apollo Hospitals",
+        "city": "Hyderabad",
+        "languages": [
+            "Hindi",
+            "Bengali"
+        ],
+        "contact": "+91-9269129050",
+        "consultationFee": "\u20b9 1380 per consultation"
+    },
+    {
+        "name": "Dr. Doctor62 Example",
+        "experience": "31+ years of experience",
+        "qualification": "Advanced Cardiology, Fortis Institute; MD General Medicine, PGI Chandigarh",
+        "city": "Mumbai",
+        "languages": [
+            "English",
+            "Hindi"
+        ],
+        "contact": "+91-9160879045",
+        "consultationFee": "\u20b9 1632 per consultation"
+    },
+    {
+        "name": "Dr. Doctor63 Example",
+        "experience": "7+ years of experience",
+        "qualification": "Advanced Cardiology, Fortis Institute; MD Internal Medicine, Mumbai University",
+        "city": "Lucknow",
+        "languages": [
+            "English",
+            "Tamil"
+        ],
+        "contact": "+91-9223298976",
+        "consultationFee": "\u20b9 881 per consultation"
+    },
+    {
+        "name": "Dr. Doctor64 Example",
+        "experience": "7+ years of experience",
+        "qualification": "MD Family Medicine, CMC Vellore; MD Internal Medicine, Mumbai University",
+        "city": "Hyderabad",
+        "languages": [
+            "Hindi",
+            "Gujarati"
+        ],
+        "contact": "+91-8468869866",
+        "consultationFee": "\u20b9 653 per consultation"
+    },
+    {
+        "name": "Dr. Doctor65 Example",
+        "experience": "19+ years of experience",
+        "qualification": "MBBS AIIMS, New Delhi; MBBS KGMU, Lucknow",
+        "city": "Bangalore",
+        "languages": [
+            "English",
+            "Hindi"
+        ],
+        "contact": "+91-9012729406",
+        "consultationFee": "\u20b9 1397 per consultation"
+    },
+    {
+        "name": "Dr. Doctor66 Example",
+        "experience": "16+ years of experience",
+        "qualification": "PGDM in Geriatrics, Apollo Hospitals; PGDM in Geriatrics, Apollo Hospitals",
+        "city": "Lucknow",
+        "languages": [
+            "English",
+            "Malayalam"
+        ],
+        "contact": "+91-8712544735",
+        "consultationFee": "\u20b9 1128 per consultation"
+    },
+    {
+        "name": "Dr. Doctor67 Example",
+        "experience": "29+ years of experience",
+        "qualification": "DFM Royal College, UK; MD Internal Medicine, Mumbai University",
+        "city": "Chennai",
+        "languages": [
+            "Hindi",
+            "Gujarati"
+        ],
+        "contact": "+91-9273522722",
+        "consultationFee": "\u20b9 1396 per consultation"
+    },
+    {
+        "name": "Dr. Doctor68 Example",
+        "experience": "21+ years of experience",
+        "qualification": "MBBS KGMU, Lucknow; DFM Royal College, UK",
+        "city": "Hyderabad",
+        "languages": [
+            "Hindi",
+            "Marathi"
+        ],
+        "contact": "+91-8681334987",
+        "consultationFee": "\u20b9 1525 per consultation"
+    },
+    {
+        "name": "Dr. Doctor69 Example",
+        "experience": "11+ years of experience",
+        "qualification": "Fellowship in Diabetes, RCP UK; Advanced Cardiology, Fortis Institute",
+        "city": "Hyderabad",
+        "languages": [
+            "Hindi",
+            "Bengali"
+        ],
+        "contact": "+91-8938613720",
+        "consultationFee": "\u20b9 1758 per consultation"
+    },
+    {
+        "name": "Dr. Doctor70 Example",
+        "experience": "27+ years of experience",
+        "qualification": "DFM Royal College, UK; MBBS AIIMS, New Delhi",
+        "city": "Hyderabad",
+        "languages": [
+            "Hindi",
+            "Bengali"
+        ],
+        "contact": "+91-8053978386",
+        "consultationFee": "\u20b9 1402 per consultation"
+    },
+    {
+        "name": "Dr. Doctor71 Example",
+        "experience": "21+ years of experience",
+        "qualification": "MD General Medicine, PGI Chandigarh; MD Family Medicine, CMC Vellore",
+        "city": "Delhi",
+        "languages": [
+            "English",
+            "Malayalam"
+        ],
+        "contact": "+91-9890104510",
+        "consultationFee": "\u20b9 957 per consultation"
+    },
+    {
+        "name": "Dr. Doctor72 Example",
+        "experience": "9+ years of experience",
+        "qualification": "Fellowship in Diabetes, RCP UK; Advanced Cardiology, Fortis Institute",
+        "city": "Mumbai",
+        "languages": [
+            "English",
+            "Punjabi"
+        ],
+        "contact": "+91-7217081793",
+        "consultationFee": "\u20b9 1010 per consultation"
+    },
+    {
+        "name": "Dr. Doctor73 Example",
+        "experience": "25+ years of experience",
+        "qualification": "PGDM in Geriatrics, Apollo Hospitals; MD Family Medicine, CMC Vellore",
+        "city": "Bangalore",
+        "languages": [
+            "English",
+            "Tamil"
+        ],
+        "contact": "+91-7159562276",
+        "consultationFee": "\u20b9 686 per consultation"
+    },
+    {
+        "name": "Dr. Doctor74 Example",
+        "experience": "23+ years of experience",
+        "qualification": "MBBS AIIMS, New Delhi; MD Family Medicine, CMC Vellore",
+        "city": "Jaipur",
+        "languages": [
+            "English",
+            "Malayalam"
+        ],
+        "contact": "+91-8324324273",
+        "consultationFee": "\u20b9 965 per consultation"
+    },
+    {
+        "name": "Dr. Doctor75 Example",
+        "experience": "6+ years of experience",
+        "qualification": "Advanced Cardiology, Fortis Institute; MD General Medicine, PGI Chandigarh",
+        "city": "Chennai",
+        "languages": [
+            "English",
+            "Punjabi"
+        ],
+        "contact": "+91-7169614357",
+        "consultationFee": "\u20b9 1949 per consultation"
+    },
+    {
+        "name": "Dr. Doctor76 Example",
+        "experience": "35+ years of experience",
+        "qualification": "Fellowship in Diabetes, RCP UK; MD Family Medicine, CMC Vellore",
+        "city": "Ahmedabad",
+        "languages": [
+            "English",
+            "Punjabi"
+        ],
+        "contact": "+91-7708229727",
+        "consultationFee": "\u20b9 1094 per consultation"
+    },
+    {
+        "name": "Dr. Doctor77 Example",
+        "experience": "21+ years of experience",
+        "qualification": "MBBS KGMU, Lucknow; DFM Royal College, UK",
+        "city": "Ahmedabad",
+        "languages": [
+            "English",
+            "Hindi"
+        ],
+        "contact": "+91-7886741983",
+        "consultationFee": "\u20b9 1677 per consultation"
+    },
+    {
+        "name": "Dr. Doctor78 Example",
+        "experience": "14+ years of experience",
+        "qualification": "MBBS KGMU, Lucknow; MD Family Medicine, CMC Vellore",
+        "city": "Delhi",
+        "languages": [
+            "English",
+            "Hindi"
+        ],
+        "contact": "+91-8397032869",
+        "consultationFee": "\u20b9 1937 per consultation"
+    },
+    {
+        "name": "Dr. Doctor79 Example",
+        "experience": "13+ years of experience",
+        "qualification": "MD General Medicine, PGI Chandigarh; DFM Royal College, UK",
+        "city": "Bangalore",
+        "languages": [
+            "English",
+            "Hindi"
+        ],
+        "contact": "+91-9559219139",
+        "consultationFee": "\u20b9 1065 per consultation"
+    },
+    {
+        "name": "Dr. Doctor80 Example",
+        "experience": "34+ years of experience",
+        "qualification": "MBBS AIIMS, New Delhi; MD General Medicine, PGI Chandigarh",
+        "city": "Bangalore",
+        "languages": [
+            "Hindi",
+            "Marathi"
+        ],
+        "contact": "+91-8045950225",
+        "consultationFee": "\u20b9 1158 per consultation"
+    },
+    {
+        "name": "Dr. Doctor81 Example",
+        "experience": "35+ years of experience",
+        "qualification": "MD Family Medicine, CMC Vellore; PGDM in Geriatrics, Apollo Hospitals",
+        "city": "Jaipur",
+        "languages": [
+            "Hindi",
+            "Urdu"
+        ],
+        "contact": "+91-8061154944",
+        "consultationFee": "\u20b9 1793 per consultation"
+    },
+    {
+        "name": "Dr. Doctor82 Example",
+        "experience": "32+ years of experience",
+        "qualification": "MBBS KGMU, Lucknow; Advanced Cardiology, Fortis Institute",
+        "city": "Lucknow",
+        "languages": [
+            "Hindi",
+            "Marathi"
+        ],
+        "contact": "+91-7106980844",
+        "consultationFee": "\u20b9 1832 per consultation"
+    },
+    {
+        "name": "Dr. Doctor83 Example",
+        "experience": "22+ years of experience",
+        "qualification": "MBBS KGMU, Lucknow; DFM Royal College, UK",
+        "city": "Ahmedabad",
+        "languages": [
+            "Hindi",
+            "Gujarati"
+        ],
+        "contact": "+91-7342722841",
+        "consultationFee": "\u20b9 1981 per consultation"
+    },
+    {
+        "name": "Dr. Doctor84 Example",
+        "experience": "33+ years of experience",
+        "qualification": "Advanced Cardiology, Fortis Institute; MD Family Medicine, CMC Vellore",
+        "city": "Jaipur",
+        "languages": [
+            "Hindi",
+            "Bengali"
+        ],
+        "contact": "+91-8602035849",
+        "consultationFee": "\u20b9 1174 per consultation"
+    },
+    {
+        "name": "Dr. Doctor85 Example",
+        "experience": "23+ years of experience",
+        "qualification": "MD Family Medicine, CMC Vellore; MD Internal Medicine, Mumbai University",
+        "city": "Jaipur",
+        "languages": [
+            "Hindi",
+            "Marathi"
+        ],
+        "contact": "+91-8834199199",
+        "consultationFee": "\u20b9 571 per consultation"
+    },
+    {
+        "name": "Dr. Doctor86 Example",
+        "experience": "11+ years of experience",
+        "qualification": "MD Internal Medicine, Mumbai University; DFM Royal College, UK",
+        "city": "Chennai",
+        "languages": [
+            "Hindi",
+            "Urdu"
+        ],
+        "contact": "+91-9890962045",
+        "consultationFee": "\u20b9 981 per consultation"
+    },
+    {
+        "name": "Dr. Doctor87 Example",
+        "experience": "32+ years of experience",
+        "qualification": "MD Internal Medicine, Mumbai University; MBBS KGMU, Lucknow",
+        "city": "Jaipur",
+        "languages": [
+            "English",
+            "Hindi"
+        ],
+        "contact": "+91-7933901690",
+        "consultationFee": "\u20b9 857 per consultation"
+    },
+    {
+        "name": "Dr. Doctor88 Example",
+        "experience": "13+ years of experience",
+        "qualification": "MBBS KGMU, Lucknow; MD Internal Medicine, Mumbai University",
+        "city": "Bangalore",
+        "languages": [
+            "English",
+            "Kannada"
+        ],
+        "contact": "+91-8790617749",
+        "consultationFee": "\u20b9 1793 per consultation"
+    },
+    {
+        "name": "Dr. Doctor89 Example",
+        "experience": "17+ years of experience",
+        "qualification": "MBBS KGMU, Lucknow; MD General Medicine, PGI Chandigarh",
+        "city": "Hyderabad",
+        "languages": [
+            "Hindi",
+            "Marathi"
+        ],
+        "contact": "+91-9764943434",
+        "consultationFee": "\u20b9 1680 per consultation"
+    },
+    {
+        "name": "Dr. Doctor90 Example",
+        "experience": "13+ years of experience",
+        "qualification": "MD General Medicine, PGI Chandigarh; MBBS AIIMS, New Delhi",
+        "city": "Lucknow",
+        "languages": [
+            "English",
+            "Hindi"
+        ],
+        "contact": "+91-9948545452",
+        "consultationFee": "\u20b9 1482 per consultation"
+    },
+    {
+        "name": "Dr. Doctor91 Example",
+        "experience": "20+ years of experience",
+        "qualification": "MD General Medicine, PGI Chandigarh; MBBS AIIMS, New Delhi",
+        "city": "Bangalore",
+        "languages": [
+            "English",
+            "Malayalam"
+        ],
+        "contact": "+91-9304961849",
+        "consultationFee": "\u20b9 1713 per consultation"
+    },
+    {
+        "name": "Dr. Doctor92 Example",
+        "experience": "6+ years of experience",
+        "qualification": "MBBS KGMU, Lucknow; MD General Medicine, PGI Chandigarh",
+        "city": "Delhi",
+        "languages": [
+            "Hindi",
+            "Marathi"
+        ],
+        "contact": "+91-8846572324",
+        "consultationFee": "\u20b9 1444 per consultation"
+    },
+    {
+        "name": "Dr. Doctor93 Example",
+        "experience": "13+ years of experience",
+        "qualification": "MBBS KGMU, Lucknow; MD Family Medicine, CMC Vellore",
+        "city": "Delhi",
+        "languages": [
+            "English",
+            "Malayalam"
+        ],
+        "contact": "+91-8849134085",
+        "consultationFee": "\u20b9 823 per consultation"
+    },
+    {
+        "name": "Dr. Doctor94 Example",
+        "experience": "13+ years of experience",
+        "qualification": "MBBS KGMU, Lucknow; PGDM in Geriatrics, Apollo Hospitals",
+        "city": "Kolkata",
+        "languages": [
+            "English",
+            "Hindi"
+        ],
+        "contact": "+91-7517061896",
+        "consultationFee": "\u20b9 1666 per consultation"
+    },
+    {
+        "name": "Dr. Doctor95 Example",
+        "experience": "14+ years of experience",
+        "qualification": "Fellowship in Diabetes, RCP UK; DFM Royal College, UK",
+        "city": "Jaipur",
+        "languages": [
+            "English",
+            "Hindi"
+        ],
+        "contact": "+91-8560245350",
+        "consultationFee": "\u20b9 1583 per consultation"
+    },
+    {
+        "name": "Dr. Doctor96 Example",
+        "experience": "34+ years of experience",
+        "qualification": "Advanced Cardiology, Fortis Institute; Advanced Cardiology, Fortis Institute",
+        "city": "Delhi",
+        "languages": [
+            "Hindi",
+            "Urdu"
+        ],
+        "contact": "+91-7582804186",
+        "consultationFee": "\u20b9 1277 per consultation"
+    },
+    {
+        "name": "Dr. Doctor97 Example",
+        "experience": "23+ years of experience",
+        "qualification": "Fellowship in Diabetes, RCP UK; MD Family Medicine, CMC Vellore",
+        "city": "Mumbai",
+        "languages": [
+            "Hindi",
+            "Bengali"
+        ],
+        "contact": "+91-9750312267",
+        "consultationFee": "\u20b9 666 per consultation"
+    },
+    {
+        "name": "Dr. Doctor98 Example",
+        "experience": "27+ years of experience",
+        "qualification": "MD General Medicine, PGI Chandigarh; MD Internal Medicine, Mumbai University",
+        "city": "Mumbai",
+        "languages": [
+            "English",
+            "Tamil"
+        ],
+        "contact": "+91-8029099074",
+        "consultationFee": "\u20b9 1930 per consultation"
+    },
+    {
+        "name": "Dr. Doctor99 Example",
+        "experience": "32+ years of experience",
+        "qualification": "MD Family Medicine, CMC Vellore; MBBS KGMU, Lucknow",
+        "city": "Mumbai",
+        "languages": [
+            "Hindi",
+            "Urdu"
+        ],
+        "contact": "+91-9560557618",
+        "consultationFee": "\u20b9 1122 per consultation"
+    },
+    {
+        "name": "Dr. Doctor100 Example",
+        "experience": "35+ years of experience",
+        "qualification": "MD General Medicine, PGI Chandigarh; Fellowship in Diabetes, RCP UK",
+        "city": "Jaipur",
+        "languages": [
+            "English",
+            "Hindi"
+        ],
+        "contact": "+91-9945364203",
+        "consultationFee": "\u20b9 526 per consultation"
+    },
+    {
+        "name": "Dr. Doctor101 Example",
+        "experience": "7+ years of experience",
+        "qualification": "MBBS AIIMS, New Delhi; MD Family Medicine, CMC Vellore",
+        "city": "Bangalore",
+        "languages": [
+            "English",
+            "Hindi"
+        ],
+        "contact": "+91-8251212502",
+        "consultationFee": "\u20b9 1519 per consultation"
+    },
+    {
+        "name": "Dr. Doctor102 Example",
+        "experience": "34+ years of experience",
+        "qualification": "MBBS AIIMS, New Delhi; MD General Medicine, PGI Chandigarh",
+        "city": "Chennai",
+        "languages": [
+            "Hindi",
+            "Urdu"
+        ],
+        "contact": "+91-7893164695",
+        "consultationFee": "\u20b9 1931 per consultation"
+    },
+    {
+        "name": "Dr. Doctor103 Example",
+        "experience": "6+ years of experience",
+        "qualification": "MBBS AIIMS, New Delhi; MBBS AIIMS, New Delhi",
+        "city": "Pune",
+        "languages": [
+            "Hindi",
+            "Gujarati"
+        ],
+        "contact": "+91-7477728997",
+        "consultationFee": "\u20b9 1680 per consultation"
+    },
+    {
+        "name": "Dr. Doctor104 Example",
+        "experience": "5+ years of experience",
+        "qualification": "Advanced Cardiology, Fortis Institute; DFM Royal College, UK",
+        "city": "Jaipur",
+        "languages": [
+            "Hindi",
+            "Urdu"
+        ],
+        "contact": "+91-7295434481",
+        "consultationFee": "\u20b9 1081 per consultation"
+    },
+    {
+        "name": "Dr. Doctor105 Example",
+        "experience": "31+ years of experience",
+        "qualification": "MD General Medicine, PGI Chandigarh; MD Internal Medicine, Mumbai University",
+        "city": "Hyderabad",
+        "languages": [
+            "Hindi",
+            "Gujarati"
+        ],
+        "contact": "+91-9180173711",
+        "consultationFee": "\u20b9 1492 per consultation"
+    },
+    {
+        "name": "Dr. Doctor106 Example",
+        "experience": "21+ years of experience",
+        "qualification": "Fellowship in Diabetes, RCP UK; PGDM in Geriatrics, Apollo Hospitals",
+        "city": "Pune",
+        "languages": [
+            "English",
+            "Kannada"
+        ],
+        "contact": "+91-9700491956",
+        "consultationFee": "\u20b9 644 per consultation"
+    },
+    {
+        "name": "Dr. Doctor107 Example",
+        "experience": "10+ years of experience",
+        "qualification": "Fellowship in Diabetes, RCP UK; MD General Medicine, PGI Chandigarh",
+        "city": "Lucknow",
+        "languages": [
+            "Hindi",
+            "Urdu"
+        ],
+        "contact": "+91-9533717275",
+        "consultationFee": "\u20b9 489 per consultation"
+    },
+    {
+        "name": "Dr. Doctor108 Example",
+        "experience": "22+ years of experience",
+        "qualification": "MD Family Medicine, CMC Vellore; MBBS KGMU, Lucknow",
+        "city": "Chennai",
+        "languages": [
+            "English",
+            "Malayalam"
+        ],
+        "contact": "+91-9468383939",
+        "consultationFee": "\u20b9 1130 per consultation"
+    },
+    {
+        "name": "Dr. Doctor109 Example",
+        "experience": "12+ years of experience",
+        "qualification": "MD Family Medicine, CMC Vellore; MBBS AIIMS, New Delhi",
+        "city": "Lucknow",
+        "languages": [
+            "English",
+            "Tamil"
+        ],
+        "contact": "+91-9604790542",
+        "consultationFee": "\u20b9 1632 per consultation"
+    },
+    {
+        "name": "Dr. Doctor110 Example",
+        "experience": "27+ years of experience",
+        "qualification": "MBBS KGMU, Lucknow; MBBS KGMU, Lucknow",
+        "city": "Hyderabad",
+        "languages": [
+            "English",
+            "Malayalam"
+        ],
+        "contact": "+91-9266190271",
+        "consultationFee": "\u20b9 452 per consultation"
+    },
+    {
+        "name": "Dr. Doctor111 Example",
+        "experience": "17+ years of experience",
+        "qualification": "MD General Medicine, PGI Chandigarh; PGDM in Geriatrics, Apollo Hospitals",
+        "city": "Chennai",
+        "languages": [
+            "Hindi",
+            "Bengali"
+        ],
+        "contact": "+91-9428093481",
+        "consultationFee": "\u20b9 1933 per consultation"
+    },
+    {
+        "name": "Dr. Doctor112 Example",
+        "experience": "26+ years of experience",
+        "qualification": "MD Internal Medicine, Mumbai University; Fellowship in Diabetes, RCP UK",
+        "city": "Ahmedabad",
+        "languages": [
+            "English",
+            "Tamil"
+        ],
+        "contact": "+91-9095130110",
+        "consultationFee": "\u20b9 1667 per consultation"
+    },
+    {
+        "name": "Dr. Doctor113 Example",
+        "experience": "11+ years of experience",
+        "qualification": "DFM Royal College, UK; PGDM in Geriatrics, Apollo Hospitals",
+        "city": "Hyderabad",
+        "languages": [
+            "Hindi",
+            "Marathi"
+        ],
+        "contact": "+91-8352904687",
+        "consultationFee": "\u20b9 626 per consultation"
+    },
+    {
+        "name": "Dr. Doctor114 Example",
+        "experience": "7+ years of experience",
+        "qualification": "MBBS AIIMS, New Delhi; DFM Royal College, UK",
+        "city": "Chennai",
+        "languages": [
+            "Hindi",
+            "Marathi"
+        ],
+        "contact": "+91-7986860027",
+        "consultationFee": "\u20b9 1183 per consultation"
+    },
+    {
+        "name": "Dr. Doctor115 Example",
+        "experience": "10+ years of experience",
+        "qualification": "MD Family Medicine, CMC Vellore; MD Family Medicine, CMC Vellore",
+        "city": "Kolkata",
+        "languages": [
+            "Hindi",
+            "Urdu"
+        ],
+        "contact": "+91-8828970351",
+        "consultationFee": "\u20b9 696 per consultation"
+    },
+    {
+        "name": "Dr. Doctor116 Example",
+        "experience": "17+ years of experience",
+        "qualification": "PGDM in Geriatrics, Apollo Hospitals; DFM Royal College, UK",
+        "city": "Hyderabad",
+        "languages": [
+            "English",
+            "Kannada"
+        ],
+        "contact": "+91-8643759337",
+        "consultationFee": "\u20b9 642 per consultation"
+    },
+    {
+        "name": "Dr. Doctor117 Example",
+        "experience": "28+ years of experience",
+        "qualification": "MD General Medicine, PGI Chandigarh; Advanced Cardiology, Fortis Institute",
+        "city": "Mumbai",
+        "languages": [
+            "English",
+            "Kannada"
+        ],
+        "contact": "+91-7151058995",
+        "consultationFee": "\u20b9 953 per consultation"
+    },
+    {
+        "name": "Dr. Doctor118 Example",
+        "experience": "13+ years of experience",
+        "qualification": "MD Internal Medicine, Mumbai University; MBBS KGMU, Lucknow",
+        "city": "Jaipur",
+        "languages": [
+            "Hindi",
+            "Urdu"
+        ],
+        "contact": "+91-7492669765",
+        "consultationFee": "\u20b9 1255 per consultation"
+    },
+    {
+        "name": "Dr. Doctor119 Example",
+        "experience": "28+ years of experience",
+        "qualification": "MD Internal Medicine, Mumbai University; DFM Royal College, UK",
+        "city": "Lucknow",
+        "languages": [
+            "English",
+            "Telugu"
+        ],
+        "contact": "+91-7194609193",
+        "consultationFee": "\u20b9 1449 per consultation"
+    },
+    {
+        "name": "Dr. Doctor120 Example",
+        "experience": "23+ years of experience",
+        "qualification": "MBBS AIIMS, New Delhi; MBBS AIIMS, New Delhi",
+        "city": "Mumbai",
+        "languages": [
+            "Hindi",
+            "Urdu"
+        ],
+        "contact": "+91-7167475143",
+        "consultationFee": "\u20b9 1284 per consultation"
+    },
+    {
+        "name": "Dr. Doctor121 Example",
+        "experience": "32+ years of experience",
+        "qualification": "MBBS KGMU, Lucknow; DFM Royal College, UK",
+        "city": "Hyderabad",
+        "languages": [
+            "Hindi",
+            "Bengali"
+        ],
+        "contact": "+91-8147063834",
+        "consultationFee": "\u20b9 1119 per consultation"
+    },
+    {
+        "name": "Dr. Doctor122 Example",
+        "experience": "5+ years of experience",
+        "qualification": "MD Internal Medicine, Mumbai University; MBBS KGMU, Lucknow",
+        "city": "Pune",
+        "languages": [
+            "English",
+            "Kannada"
+        ],
+        "contact": "+91-8764901607",
+        "consultationFee": "\u20b9 899 per consultation"
+    },
+    {
+        "name": "Dr. Doctor123 Example",
+        "experience": "27+ years of experience",
+        "qualification": "MD Family Medicine, CMC Vellore; DFM Royal College, UK",
+        "city": "Pune",
+        "languages": [
+            "English",
+            "Punjabi"
+        ],
+        "contact": "+91-8719099731",
+        "consultationFee": "\u20b9 787 per consultation"
+    },
+    {
+        "name": "Dr. Doctor124 Example",
+        "experience": "17+ years of experience",
+        "qualification": "MD General Medicine, PGI Chandigarh; MD Family Medicine, CMC Vellore",
+        "city": "Delhi",
+        "languages": [
+            "English",
+            "Hindi"
+        ],
+        "contact": "+91-9185156766",
+        "consultationFee": "\u20b9 1901 per consultation"
+    },
+    {
+        "name": "Dr. Doctor125 Example",
+        "experience": "12+ years of experience",
+        "qualification": "Advanced Cardiology, Fortis Institute; DFM Royal College, UK",
+        "city": "Kolkata",
+        "languages": [
+            "English",
+            "Punjabi"
+        ],
+        "contact": "+91-8776328546",
+        "consultationFee": "\u20b9 1179 per consultation"
+    },
+    {
+        "name": "Dr. Doctor126 Example",
+        "experience": "34+ years of experience",
+        "qualification": "Advanced Cardiology, Fortis Institute; DFM Royal College, UK",
+        "city": "Chennai",
+        "languages": [
+            "Hindi",
+            "Gujarati"
+        ],
+        "contact": "+91-8087162825",
+        "consultationFee": "\u20b9 1417 per consultation"
+    },
+    {
+        "name": "Dr. Doctor127 Example",
+        "experience": "23+ years of experience",
+        "qualification": "Fellowship in Diabetes, RCP UK; Advanced Cardiology, Fortis Institute",
+        "city": "Mumbai",
+        "languages": [
+            "English",
+            "Hindi"
+        ],
+        "contact": "+91-7235240405",
+        "consultationFee": "\u20b9 1100 per consultation"
+    },
+    {
+        "name": "Dr. Doctor128 Example",
+        "experience": "15+ years of experience",
+        "qualification": "MBBS KGMU, Lucknow; Advanced Cardiology, Fortis Institute",
+        "city": "Hyderabad",
+        "languages": [
+            "Hindi",
+            "Bengali"
+        ],
+        "contact": "+91-7058566226",
+        "consultationFee": "\u20b9 649 per consultation"
+    },
+    {
+        "name": "Dr. Doctor129 Example",
+        "experience": "34+ years of experience",
+        "qualification": "Fellowship in Diabetes, RCP UK; PGDM in Geriatrics, Apollo Hospitals",
+        "city": "Ahmedabad",
+        "languages": [
+            "English",
+            "Kannada"
+        ],
+        "contact": "+91-9370388126",
+        "consultationFee": "\u20b9 898 per consultation"
+    },
+    {
+        "name": "Dr. Doctor130 Example",
+        "experience": "35+ years of experience",
+        "qualification": "Advanced Cardiology, Fortis Institute; MD Internal Medicine, Mumbai University",
+        "city": "Lucknow",
+        "languages": [
+            "Hindi",
+            "Gujarati"
+        ],
+        "contact": "+91-8176864520",
+        "consultationFee": "\u20b9 1805 per consultation"
+    },
+    {
+        "name": "Dr. Doctor131 Example",
+        "experience": "17+ years of experience",
+        "qualification": "Fellowship in Diabetes, RCP UK; Advanced Cardiology, Fortis Institute",
+        "city": "Mumbai",
+        "languages": [
+            "Hindi",
+            "Marathi"
+        ],
+        "contact": "+91-8649876310",
+        "consultationFee": "\u20b9 1963 per consultation"
+    },
+    {
+        "name": "Dr. Doctor132 Example",
+        "experience": "30+ years of experience",
+        "qualification": "Fellowship in Diabetes, RCP UK; MBBS KGMU, Lucknow",
+        "city": "Lucknow",
+        "languages": [
+            "English",
+            "Tamil"
+        ],
+        "contact": "+91-8699983405",
+        "consultationFee": "\u20b9 855 per consultation"
+    },
+    {
+        "name": "Dr. Doctor133 Example",
+        "experience": "32+ years of experience",
+        "qualification": "MBBS AIIMS, New Delhi; Advanced Cardiology, Fortis Institute",
+        "city": "Mumbai",
+        "languages": [
+            "English",
+            "Hindi"
+        ],
+        "contact": "+91-9334749199",
+        "consultationFee": "\u20b9 1010 per consultation"
+    },
+    {
+        "name": "Dr. Doctor134 Example",
+        "experience": "25+ years of experience",
+        "qualification": "PGDM in Geriatrics, Apollo Hospitals; PGDM in Geriatrics, Apollo Hospitals",
+        "city": "Hyderabad",
+        "languages": [
+            "English",
+            "Tamil"
+        ],
+        "contact": "+91-9312413786",
+        "consultationFee": "\u20b9 1111 per consultation"
+    },
+    {
+        "name": "Dr. Doctor135 Example",
+        "experience": "27+ years of experience",
+        "qualification": "PGDM in Geriatrics, Apollo Hospitals; MBBS KGMU, Lucknow",
+        "city": "Delhi",
+        "languages": [
+            "Hindi",
+            "Urdu"
+        ],
+        "contact": "+91-8443057030",
+        "consultationFee": "\u20b9 1688 per consultation"
+    },
+    {
+        "name": "Dr. Doctor136 Example",
+        "experience": "20+ years of experience",
+        "qualification": "DFM Royal College, UK; MBBS AIIMS, New Delhi",
+        "city": "Chennai",
+        "languages": [
+            "Hindi",
+            "Urdu"
+        ],
+        "contact": "+91-7176832585",
+        "consultationFee": "\u20b9 1763 per consultation"
+    },
+    {
+        "name": "Dr. Doctor137 Example",
+        "experience": "17+ years of experience",
+        "qualification": "MD Internal Medicine, Mumbai University; MBBS KGMU, Lucknow",
+        "city": "Chennai",
+        "languages": [
+            "Hindi",
+            "Marathi"
+        ],
+        "contact": "+91-7422796032",
+        "consultationFee": "\u20b9 572 per consultation"
+    },
+    {
+        "name": "Dr. Doctor138 Example",
+        "experience": "11+ years of experience",
+        "qualification": "MD Family Medicine, CMC Vellore; Fellowship in Diabetes, RCP UK",
+        "city": "Hyderabad",
+        "languages": [
+            "English",
+            "Punjabi"
+        ],
+        "contact": "+91-7219902373",
+        "consultationFee": "\u20b9 1351 per consultation"
+    },
+    {
+        "name": "Dr. Doctor139 Example",
+        "experience": "17+ years of experience",
+        "qualification": "MD Internal Medicine, Mumbai University; DFM Royal College, UK",
+        "city": "Jaipur",
+        "languages": [
+            "English",
+            "Telugu"
+        ],
+        "contact": "+91-9986528372",
+        "consultationFee": "\u20b9 878 per consultation"
+    },
+    {
+        "name": "Dr. Doctor140 Example",
+        "experience": "19+ years of experience",
+        "qualification": "MD Family Medicine, CMC Vellore; PGDM in Geriatrics, Apollo Hospitals",
+        "city": "Delhi",
+        "languages": [
+            "English",
+            "Hindi"
+        ],
+        "contact": "+91-9201906941",
+        "consultationFee": "\u20b9 1936 per consultation"
+    },
+    {
+        "name": "Dr. Doctor141 Example",
+        "experience": "22+ years of experience",
+        "qualification": "Advanced Cardiology, Fortis Institute; Advanced Cardiology, Fortis Institute",
+        "city": "Hyderabad",
+        "languages": [
+            "Hindi",
+            "Marathi"
+        ],
+        "contact": "+91-7388911997",
+        "consultationFee": "\u20b9 529 per consultation"
+    },
+    {
+        "name": "Dr. Doctor142 Example",
+        "experience": "5+ years of experience",
+        "qualification": "MD Family Medicine, CMC Vellore; DFM Royal College, UK",
+        "city": "Bangalore",
+        "languages": [
+            "English",
+            "Malayalam"
+        ],
+        "contact": "+91-9594570220",
+        "consultationFee": "\u20b9 1022 per consultation"
+    },
+    {
+        "name": "Dr. Doctor143 Example",
+        "experience": "14+ years of experience",
+        "qualification": "Advanced Cardiology, Fortis Institute; MD General Medicine, PGI Chandigarh",
+        "city": "Hyderabad",
+        "languages": [
+            "English",
+            "Tamil"
+        ],
+        "contact": "+91-8910971340",
+        "consultationFee": "\u20b9 1822 per consultation"
+    },
+    {
+        "name": "Dr. Doctor144 Example",
+        "experience": "28+ years of experience",
+        "qualification": "MD Internal Medicine, Mumbai University; Fellowship in Diabetes, RCP UK",
+        "city": "Hyderabad",
+        "languages": [
+            "Hindi",
+            "Gujarati"
+        ],
+        "contact": "+91-9947336965",
+        "consultationFee": "\u20b9 1558 per consultation"
+    },
+    {
+        "name": "Dr. Doctor145 Example",
+        "experience": "15+ years of experience",
+        "qualification": "MD Family Medicine, CMC Vellore; MBBS AIIMS, New Delhi",
+        "city": "Hyderabad",
+        "languages": [
+            "Hindi",
+            "Gujarati"
+        ],
+        "contact": "+91-8431101726",
+        "consultationFee": "\u20b9 1016 per consultation"
+    },
+    {
+        "name": "Dr. Doctor146 Example",
+        "experience": "32+ years of experience",
+        "qualification": "MD Internal Medicine, Mumbai University; MBBS AIIMS, New Delhi",
+        "city": "Hyderabad",
+        "languages": [
+            "English",
+            "Malayalam"
+        ],
+        "contact": "+91-8355902740",
+        "consultationFee": "\u20b9 913 per consultation"
+    },
+    {
+        "name": "Dr. Doctor147 Example",
+        "experience": "33+ years of experience",
+        "qualification": "Advanced Cardiology, Fortis Institute; Fellowship in Diabetes, RCP UK",
+        "city": "Chennai",
+        "languages": [
+            "Hindi",
+            "Marathi"
+        ],
+        "contact": "+91-8056611483",
+        "consultationFee": "\u20b9 1398 per consultation"
+    },
+    {
+        "name": "Dr. Doctor148 Example",
+        "experience": "23+ years of experience",
+        "qualification": "Advanced Cardiology, Fortis Institute; MBBS AIIMS, New Delhi",
+        "city": "Bangalore",
+        "languages": [
+            "English",
+            "Telugu"
+        ],
+        "contact": "+91-8617412612",
+        "consultationFee": "\u20b9 993 per consultation"
+    },
+    {
+        "name": "Dr. Doctor149 Example",
+        "experience": "27+ years of experience",
+        "qualification": "PGDM in Geriatrics, Apollo Hospitals; MD Internal Medicine, Mumbai University",
+        "city": "Lucknow",
+        "languages": [
+            "Hindi",
+            "Bengali"
+        ],
+        "contact": "+91-8437548313",
+        "consultationFee": "\u20b9 767 per consultation"
+    },
+    {
+        "name": "Dr. Doctor150 Example",
+        "experience": "12+ years of experience",
+        "qualification": "MBBS KGMU, Lucknow; Fellowship in Diabetes, RCP UK",
+        "city": "Delhi",
+        "languages": [
+            "English",
+            "Kannada"
+        ],
+        "contact": "+91-9461837386",
+        "consultationFee": "\u20b9 406 per consultation"
+    },
+    {
+        "name": "Dr. Doctor151 Example",
+        "experience": "26+ years of experience",
+        "qualification": "MBBS KGMU, Lucknow; MD General Medicine, PGI Chandigarh",
+        "city": "Ahmedabad",
+        "languages": [
+            "Hindi",
+            "Gujarati"
+        ],
+        "contact": "+91-7834136572",
+        "consultationFee": "\u20b9 1120 per consultation"
+    },
+    {
+        "name": "Dr. Doctor152 Example",
+        "experience": "19+ years of experience",
+        "qualification": "DFM Royal College, UK; Fellowship in Diabetes, RCP UK",
+        "city": "Pune",
+        "languages": [
+            "Hindi",
+            "Urdu"
+        ],
+        "contact": "+91-8827730813",
+        "consultationFee": "\u20b9 862 per consultation"
+    },
+    {
+        "name": "Dr. Doctor153 Example",
+        "experience": "23+ years of experience",
+        "qualification": "MD Family Medicine, CMC Vellore; DFM Royal College, UK",
+        "city": "Pune",
+        "languages": [
+            "Hindi",
+            "Bengali"
+        ],
+        "contact": "+91-7161458783",
+        "consultationFee": "\u20b9 1377 per consultation"
+    },
+    {
+        "name": "Dr. Doctor154 Example",
+        "experience": "35+ years of experience",
+        "qualification": "Advanced Cardiology, Fortis Institute; MBBS AIIMS, New Delhi",
+        "city": "Pune",
+        "languages": [
+            "English",
+            "Kannada"
+        ],
+        "contact": "+91-8181921642",
+        "consultationFee": "\u20b9 1544 per consultation"
+    },
+    {
+        "name": "Dr. Doctor155 Example",
+        "experience": "18+ years of experience",
+        "qualification": "MBBS KGMU, Lucknow; MD Family Medicine, CMC Vellore",
+        "city": "Chennai",
+        "languages": [
+            "English",
+            "Kannada"
+        ],
+        "contact": "+91-7422539175",
+        "consultationFee": "\u20b9 1888 per consultation"
+    },
+    {
+        "name": "Dr. Doctor156 Example",
+        "experience": "8+ years of experience",
+        "qualification": "MBBS AIIMS, New Delhi; MD Internal Medicine, Mumbai University",
+        "city": "Jaipur",
+        "languages": [
+            "English",
+            "Kannada"
+        ],
+        "contact": "+91-9131790693",
+        "consultationFee": "\u20b9 1402 per consultation"
+    },
+    {
+        "name": "Dr. Doctor157 Example",
+        "experience": "13+ years of experience",
+        "qualification": "DFM Royal College, UK; MD General Medicine, PGI Chandigarh",
+        "city": "Kolkata",
+        "languages": [
+            "English",
+            "Telugu"
+        ],
+        "contact": "+91-9698867422",
+        "consultationFee": "\u20b9 616 per consultation"
+    },
+    {
+        "name": "Dr. Doctor158 Example",
+        "experience": "9+ years of experience",
+        "qualification": "Advanced Cardiology, Fortis Institute; MBBS KGMU, Lucknow",
+        "city": "Mumbai",
+        "languages": [
+            "Hindi",
+            "Urdu"
+        ],
+        "contact": "+91-9038772033",
+        "consultationFee": "\u20b9 1383 per consultation"
+    },
+    {
+        "name": "Dr. Doctor159 Example",
+        "experience": "18+ years of experience",
+        "qualification": "MD Internal Medicine, Mumbai University; Advanced Cardiology, Fortis Institute",
+        "city": "Kolkata",
+        "languages": [
+            "English",
+            "Telugu"
+        ],
+        "contact": "+91-7019189840",
+        "consultationFee": "\u20b9 1254 per consultation"
+    },
+    {
+        "name": "Dr. Doctor160 Example",
+        "experience": "32+ years of experience",
+        "qualification": "MBBS KGMU, Lucknow; MD Family Medicine, CMC Vellore",
+        "city": "Ahmedabad",
+        "languages": [
+            "Hindi",
+            "Urdu"
+        ],
+        "contact": "+91-8176595316",
+        "consultationFee": "\u20b9 1731 per consultation"
+    },
+    {
+        "name": "Dr. Doctor161 Example",
+        "experience": "19+ years of experience",
+        "qualification": "MBBS AIIMS, New Delhi; PGDM in Geriatrics, Apollo Hospitals",
+        "city": "Jaipur",
+        "languages": [
+            "English",
+            "Punjabi"
+        ],
+        "contact": "+91-7970265197",
+        "consultationFee": "\u20b9 1028 per consultation"
+    },
+    {
+        "name": "Dr. Doctor162 Example",
+        "experience": "30+ years of experience",
+        "qualification": "MBBS AIIMS, New Delhi; MD Internal Medicine, Mumbai University",
+        "city": "Bangalore",
+        "languages": [
+            "Hindi",
+            "Gujarati"
+        ],
+        "contact": "+91-8496035805",
+        "consultationFee": "\u20b9 999 per consultation"
+    },
+    {
+        "name": "Dr. Doctor163 Example",
+        "experience": "12+ years of experience",
+        "qualification": "MBBS AIIMS, New Delhi; MBBS KGMU, Lucknow",
+        "city": "Chennai",
+        "languages": [
+            "English",
+            "Tamil"
+        ],
+        "contact": "+91-8619643384",
+        "consultationFee": "\u20b9 1747 per consultation"
+    },
+    {
+        "name": "Dr. Doctor164 Example",
+        "experience": "24+ years of experience",
+        "qualification": "Advanced Cardiology, Fortis Institute; Advanced Cardiology, Fortis Institute",
+        "city": "Pune",
+        "languages": [
+            "English",
+            "Punjabi"
+        ],
+        "contact": "+91-8771071552",
+        "consultationFee": "\u20b9 1710 per consultation"
+    },
+    {
+        "name": "Dr. Doctor165 Example",
+        "experience": "21+ years of experience",
+        "qualification": "DFM Royal College, UK; MD Family Medicine, CMC Vellore",
+        "city": "Ahmedabad",
+        "languages": [
+            "English",
+            "Malayalam"
+        ],
+        "contact": "+91-7585141019",
+        "consultationFee": "\u20b9 1706 per consultation"
+    },
+    {
+        "name": "Dr. Doctor166 Example",
+        "experience": "11+ years of experience",
+        "qualification": "Advanced Cardiology, Fortis Institute; Advanced Cardiology, Fortis Institute",
+        "city": "Hyderabad",
+        "languages": [
+            "English",
+            "Kannada"
+        ],
+        "contact": "+91-9054162379",
+        "consultationFee": "\u20b9 1533 per consultation"
+    },
+    {
+        "name": "Dr. Doctor167 Example",
+        "experience": "35+ years of experience",
+        "qualification": "PGDM in Geriatrics, Apollo Hospitals; MD Internal Medicine, Mumbai University",
+        "city": "Hyderabad",
+        "languages": [
+            "Hindi",
+            "Bengali"
+        ],
+        "contact": "+91-8814349920",
+        "consultationFee": "\u20b9 708 per consultation"
+    },
+    {
+        "name": "Dr. Doctor168 Example",
+        "experience": "13+ years of experience",
+        "qualification": "MD Internal Medicine, Mumbai University; MD Family Medicine, CMC Vellore",
+        "city": "Kolkata",
+        "languages": [
+            "Hindi",
+            "Urdu"
+        ],
+        "contact": "+91-7963926300",
+        "consultationFee": "\u20b9 1692 per consultation"
+    },
+    {
+        "name": "Dr. Doctor169 Example",
+        "experience": "30+ years of experience",
+        "qualification": "MD Family Medicine, CMC Vellore; MD Family Medicine, CMC Vellore",
+        "city": "Jaipur",
+        "languages": [
+            "English",
+            "Kannada"
+        ],
+        "contact": "+91-9977228822",
+        "consultationFee": "\u20b9 1142 per consultation"
+    },
+    {
+        "name": "Dr. Doctor170 Example",
+        "experience": "17+ years of experience",
+        "qualification": "MBBS KGMU, Lucknow; MBBS AIIMS, New Delhi",
+        "city": "Hyderabad",
+        "languages": [
+            "Hindi",
+            "Bengali"
+        ],
+        "contact": "+91-7105300331",
+        "consultationFee": "\u20b9 900 per consultation"
+    },
+    {
+        "name": "Dr. Doctor171 Example",
+        "experience": "6+ years of experience",
+        "qualification": "Advanced Cardiology, Fortis Institute; MBBS KGMU, Lucknow",
+        "city": "Ahmedabad",
+        "languages": [
+            "English",
+            "Kannada"
+        ],
+        "contact": "+91-7691572210",
+        "consultationFee": "\u20b9 910 per consultation"
+    },
+    {
+        "name": "Dr. Doctor172 Example",
+        "experience": "5+ years of experience",
+        "qualification": "MD Internal Medicine, Mumbai University; Advanced Cardiology, Fortis Institute",
+        "city": "Pune",
+        "languages": [
+            "Hindi",
+            "Marathi"
+        ],
+        "contact": "+91-8530718130",
+        "consultationFee": "\u20b9 960 per consultation"
+    },
+    {
+        "name": "Dr. Doctor173 Example",
+        "experience": "33+ years of experience",
+        "qualification": "MD Family Medicine, CMC Vellore; MD General Medicine, PGI Chandigarh",
+        "city": "Chennai",
+        "languages": [
+            "English",
+            "Punjabi"
+        ],
+        "contact": "+91-8708179078",
+        "consultationFee": "\u20b9 672 per consultation"
+    },
+    {
+        "name": "Dr. Doctor174 Example",
+        "experience": "5+ years of experience",
+        "qualification": "Advanced Cardiology, Fortis Institute; MD Internal Medicine, Mumbai University",
+        "city": "Bangalore",
+        "languages": [
+            "Hindi",
+            "Urdu"
+        ],
+        "contact": "+91-9738847881",
+        "consultationFee": "\u20b9 1999 per consultation"
+    },
+    {
+        "name": "Dr. Doctor175 Example",
+        "experience": "12+ years of experience",
+        "qualification": "MD Internal Medicine, Mumbai University; DFM Royal College, UK",
+        "city": "Bangalore",
+        "languages": [
+            "English",
+            "Tamil"
+        ],
+        "contact": "+91-9738374195",
+        "consultationFee": "\u20b9 1157 per consultation"
+    },
+    {
+        "name": "Dr. Doctor176 Example",
+        "experience": "21+ years of experience",
+        "qualification": "MD General Medicine, PGI Chandigarh; Advanced Cardiology, Fortis Institute",
+        "city": "Bangalore",
+        "languages": [
+            "Hindi",
+            "Marathi"
+        ],
+        "contact": "+91-8807634145",
+        "consultationFee": "\u20b9 970 per consultation"
+    },
+    {
+        "name": "Dr. Doctor177 Example",
+        "experience": "35+ years of experience",
+        "qualification": "Fellowship in Diabetes, RCP UK; Advanced Cardiology, Fortis Institute",
+        "city": "Chennai",
+        "languages": [
+            "English",
+            "Telugu"
+        ],
+        "contact": "+91-8204209862",
+        "consultationFee": "\u20b9 639 per consultation"
+    },
+    {
+        "name": "Dr. Doctor178 Example",
+        "experience": "28+ years of experience",
+        "qualification": "MBBS KGMU, Lucknow; MBBS AIIMS, New Delhi",
+        "city": "Delhi",
+        "languages": [
+            "English",
+            "Telugu"
+        ],
+        "contact": "+91-7436363004",
+        "consultationFee": "\u20b9 530 per consultation"
+    },
+    {
+        "name": "Dr. Doctor179 Example",
+        "experience": "5+ years of experience",
+        "qualification": "DFM Royal College, UK; MD General Medicine, PGI Chandigarh",
+        "city": "Hyderabad",
+        "languages": [
+            "English",
+            "Punjabi"
+        ],
+        "contact": "+91-8039849396",
+        "consultationFee": "\u20b9 1574 per consultation"
+    },
+    {
+        "name": "Dr. Doctor180 Example",
+        "experience": "11+ years of experience",
+        "qualification": "Fellowship in Diabetes, RCP UK; Fellowship in Diabetes, RCP UK",
+        "city": "Jaipur",
+        "languages": [
+            "English",
+            "Tamil"
+        ],
+        "contact": "+91-9519410007",
+        "consultationFee": "\u20b9 1355 per consultation"
+    },
+    {
+        "name": "Dr. Doctor181 Example",
+        "experience": "26+ years of experience",
+        "qualification": "MD Internal Medicine, Mumbai University; PGDM in Geriatrics, Apollo Hospitals",
+        "city": "Mumbai",
+        "languages": [
+            "English",
+            "Telugu"
+        ],
+        "contact": "+91-8018964098",
+        "consultationFee": "\u20b9 1708 per consultation"
+    },
+    {
+        "name": "Dr. Doctor182 Example",
+        "experience": "20+ years of experience",
+        "qualification": "MD Internal Medicine, Mumbai University; DFM Royal College, UK",
+        "city": "Bangalore",
+        "languages": [
+            "Hindi",
+            "Bengali"
+        ],
+        "contact": "+91-7646126745",
+        "consultationFee": "\u20b9 1541 per consultation"
+    },
+    {
+        "name": "Dr. Doctor183 Example",
+        "experience": "35+ years of experience",
+        "qualification": "MD General Medicine, PGI Chandigarh; Advanced Cardiology, Fortis Institute",
+        "city": "Ahmedabad",
+        "languages": [
+            "Hindi",
+            "Urdu"
+        ],
+        "contact": "+91-7574442237",
+        "consultationFee": "\u20b9 1384 per consultation"
+    },
+    {
+        "name": "Dr. Doctor184 Example",
+        "experience": "29+ years of experience",
+        "qualification": "DFM Royal College, UK; Advanced Cardiology, Fortis Institute",
+        "city": "Delhi",
+        "languages": [
+            "English",
+            "Punjabi"
+        ],
+        "contact": "+91-9702353946",
+        "consultationFee": "\u20b9 1900 per consultation"
+    },
+    {
+        "name": "Dr. Doctor185 Example",
+        "experience": "26+ years of experience",
+        "qualification": "Advanced Cardiology, Fortis Institute; MD General Medicine, PGI Chandigarh",
+        "city": "Jaipur",
+        "languages": [
+            "English",
+            "Kannada"
+        ],
+        "contact": "+91-9659156758",
+        "consultationFee": "\u20b9 1138 per consultation"
+    },
+    {
+        "name": "Dr. Doctor186 Example",
+        "experience": "28+ years of experience",
+        "qualification": "MD Family Medicine, CMC Vellore; MD Internal Medicine, Mumbai University",
+        "city": "Ahmedabad",
+        "languages": [
+            "Hindi",
+            "Gujarati"
+        ],
+        "contact": "+91-9891937664",
+        "consultationFee": "\u20b9 1951 per consultation"
+    },
+    {
+        "name": "Dr. Doctor187 Example",
+        "experience": "31+ years of experience",
+        "qualification": "MBBS KGMU, Lucknow; MD Family Medicine, CMC Vellore",
+        "city": "Delhi",
+        "languages": [
+            "English",
+            "Malayalam"
+        ],
+        "contact": "+91-9776502009",
+        "consultationFee": "\u20b9 787 per consultation"
+    },
+    {
+        "name": "Dr. Doctor188 Example",
+        "experience": "33+ years of experience",
+        "qualification": "MBBS KGMU, Lucknow; MD General Medicine, PGI Chandigarh",
+        "city": "Lucknow",
+        "languages": [
+            "Hindi",
+            "Urdu"
+        ],
+        "contact": "+91-9160888143",
+        "consultationFee": "\u20b9 1573 per consultation"
+    },
+    {
+        "name": "Dr. Doctor189 Example",
+        "experience": "19+ years of experience",
+        "qualification": "MD Family Medicine, CMC Vellore; MBBS AIIMS, New Delhi",
+        "city": "Bangalore",
+        "languages": [
+            "English",
+            "Punjabi"
+        ],
+        "contact": "+91-8302281860",
+        "consultationFee": "\u20b9 1742 per consultation"
+    },
+    {
+        "name": "Dr. Doctor190 Example",
+        "experience": "9+ years of experience",
+        "qualification": "MD Internal Medicine, Mumbai University; MBBS AIIMS, New Delhi",
+        "city": "Chennai",
+        "languages": [
+            "English",
+            "Punjabi"
+        ],
+        "contact": "+91-8954840266",
+        "consultationFee": "\u20b9 690 per consultation"
+    },
+    {
+        "name": "Dr. Doctor191 Example",
+        "experience": "23+ years of experience",
+        "qualification": "MD Internal Medicine, Mumbai University; Fellowship in Diabetes, RCP UK",
+        "city": "Ahmedabad",
+        "languages": [
+            "Hindi",
+            "Urdu"
+        ],
+        "contact": "+91-8636313869",
+        "consultationFee": "\u20b9 691 per consultation"
+    },
+    {
+        "name": "Dr. Doctor192 Example",
+        "experience": "35+ years of experience",
+        "qualification": "DFM Royal College, UK; Advanced Cardiology, Fortis Institute",
+        "city": "Mumbai",
+        "languages": [
+            "Hindi",
+            "Urdu"
+        ],
+        "contact": "+91-9991614641",
+        "consultationFee": "\u20b9 1536 per consultation"
+    },
+    {
+        "name": "Dr. Doctor193 Example",
+        "experience": "18+ years of experience",
+        "qualification": "MD General Medicine, PGI Chandigarh; DFM Royal College, UK",
+        "city": "Ahmedabad",
+        "languages": [
+            "Hindi",
+            "Bengali"
+        ],
+        "contact": "+91-9831190918",
+        "consultationFee": "\u20b9 930 per consultation"
+    },
+    {
+        "name": "Dr. Doctor194 Example",
+        "experience": "19+ years of experience",
+        "qualification": "MD Family Medicine, CMC Vellore; MD Family Medicine, CMC Vellore",
+        "city": "Ahmedabad",
+        "languages": [
+            "English",
+            "Malayalam"
+        ],
+        "contact": "+91-9312606187",
+        "consultationFee": "\u20b9 660 per consultation"
+    },
+    {
+        "name": "Dr. Doctor195 Example",
+        "experience": "16+ years of experience",
+        "qualification": "Fellowship in Diabetes, RCP UK; MBBS KGMU, Lucknow",
+        "city": "Jaipur",
+        "languages": [
+            "English",
+            "Kannada"
+        ],
+        "contact": "+91-9754052719",
+        "consultationFee": "\u20b9 1575 per consultation"
+    },
+    {
+        "name": "Dr. Doctor196 Example",
+        "experience": "20+ years of experience",
+        "qualification": "MD Family Medicine, CMC Vellore; DFM Royal College, UK",
+        "city": "Ahmedabad",
+        "languages": [
+            "English",
+            "Telugu"
+        ],
+        "contact": "+91-8484679658",
+        "consultationFee": "\u20b9 1097 per consultation"
+    },
+    {
+        "name": "Dr. Doctor197 Example",
+        "experience": "18+ years of experience",
+        "qualification": "MD Family Medicine, CMC Vellore; MD General Medicine, PGI Chandigarh",
+        "city": "Delhi",
+        "languages": [
+            "English",
+            "Punjabi"
+        ],
+        "contact": "+91-8804191057",
+        "consultationFee": "\u20b9 926 per consultation"
+    },
+    {
+        "name": "Dr. Doctor198 Example",
+        "experience": "8+ years of experience",
+        "qualification": "MBBS AIIMS, New Delhi; MBBS KGMU, Lucknow",
+        "city": "Pune",
+        "languages": [
+            "English",
+            "Hindi"
+        ],
+        "contact": "+91-8554861819",
+        "consultationFee": "\u20b9 1182 per consultation"
+    },
+    {
+        "name": "Dr. Doctor199 Example",
+        "experience": "6+ years of experience",
+        "qualification": "Fellowship in Diabetes, RCP UK; MBBS KGMU, Lucknow",
+        "city": "Mumbai",
+        "languages": [
+            "Hindi",
+            "Urdu"
+        ],
+        "contact": "+91-7870741020",
+        "consultationFee": "\u20b9 577 per consultation"
+    },
+    {
+        "name": "Dr. Doctor200 Example",
+        "experience": "26+ years of experience",
+        "qualification": "MD Internal Medicine, Mumbai University; MD Family Medicine, CMC Vellore",
+        "city": "Lucknow",
+        "languages": [
+            "English",
+            "Hindi"
+        ],
+        "contact": "+91-8743044805",
+        "consultationFee": "\u20b9 510 per consultation"
+    }
+]
